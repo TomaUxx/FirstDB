@@ -41,5 +41,4 @@ def read_music(path, extension):
             
             db.commit()
 
-
 read_music("E:\mp3\The Rolling Stone 500 Greatest Albums of All Time 100 - 149", "mp3")
